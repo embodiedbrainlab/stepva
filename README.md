@@ -1,2 +1,2 @@
-# Step_VA
+# stepva
 Codes to analyze step-VA data
